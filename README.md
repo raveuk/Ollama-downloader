@@ -6,6 +6,17 @@ A command-line tool for downloading Ollama models in configurable chunks with re
 **Version:** 1.0.0
 **Created:** March 2026
 
+Purchase: 
+1. Download the tool and run from the command prompt
+2. type ollama-dl license info
+3.**$10.99 a Year or $24.99 Lifetime purchase**
+4. Send payment to using paypal to raveuk@live.co.uk with **Machine ID** any instruction
+5. Email me at **raveuk@live.co.uk** with your details
+6. License will be sent within 30mins to 12hrs to your email
+7. Check your junks mails
+8. Code will be sent only once and can't be generated
+
+
 ## Features
 
 - **Chunked Downloads** - Download large models in 1GB chunks (configurable)
@@ -195,4 +206,4 @@ This is proprietary software. A valid license is required for use.
 
 Copyright (c) 2026 Raveuk. All rights reserved.
 
-Purchase: https://example.com/ollama-dl
+
