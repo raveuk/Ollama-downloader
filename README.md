@@ -45,8 +45,7 @@ After the trial, a valid license is required to download models.
 | 1 Year | $10 | 365 days |
 
 Purchase:
-
-1.Download the tool and run from the command prompt
+1. Download the tool and run from the command prompt
 2. type ollama-dl license info
 3. $10.99 a Year
 4. Send payment to using paypal to raveuk@live.co.uk with Machine ID any instruction
