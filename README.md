@@ -2,6 +2,10 @@
 
 A command-line tool for downloading Ollama models in configurable chunks with resume support.
 
+**Author:** Raveuk
+**Version:** 1.0.0
+**Created:** March 2026
+
 ## Features
 
 - **Chunked Downloads** - Download large models in 1GB chunks (configurable)
@@ -149,8 +153,8 @@ ollama-dl clean --all --force
 
 ## Progress Display
 
-During download, you'll see: 
-**This just an illustration made up**
+During download, you'll see:
+
 ```
 ┌─ Downloading sha256:30e51a7cb1cf...
 │ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35.2% (18.3/52.0 GB) 582.0 kB/s ETA: 16h5m
@@ -188,5 +192,7 @@ ollama-dl resume
 ## License
 
 This is proprietary software. A valid license is required for use.
+
+Copyright (c) 2026 Raveuk. All rights reserved.
 
 Purchase: https://example.com/ollama-dl
