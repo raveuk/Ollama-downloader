@@ -15,11 +15,39 @@ A command-line tool for downloading Ollama models in configurable chunks with re
 - **Integrity Verification** - SHA256 verification of all downloads
 - **IPv6 Support** - Optional IPv6 preference for faster speeds
 - **Free Trial** - 3-day free trial, no credit card required
+- **Cross-Platform** - Windows and Linux (x64 & ARM64)
 
 ## Installation
 
-1. Download `ollama-dl.exe` to your desired location
-2. Start a free trial or activate your license (see below)
+### Windows
+
+1. Download `ollama-dl.exe`
+2. Run from command prompt or PowerShell
+
+### Linux
+
+```bash
+# For x64 (most desktops/servers)
+chmod +x ollama-dl-linux-amd64
+./ollama-dl-linux-amd64
+
+# For ARM64 (Raspberry Pi 4, etc.)
+chmod +x ollama-dl-linux-arm64
+./ollama-dl-linux-arm64
+
+# Optional: Install system-wide
+sudo mv ollama-dl-linux-amd64 /usr/local/bin/ollama-dl
+```
+
+### Available Downloads
+
+| Platform | File |
+|----------|------|
+| Windows x64 | `ollama-dl.exe` |
+| Linux x64 | `ollama-dl-linux-amd64` |
+| Linux ARM64 | `ollama-dl-linux-arm64` |
+
+After downloading, start a free trial or activate your license (see below)
 
 ## Free Trial
 
@@ -45,14 +73,15 @@ After the trial, a valid license is required to download models.
 | 1 Year | $10 | 365 days |
 
 Purchase:
-1. Download the tool and run from the command prompt
-2. type ollama-dl license info
-3. $10.99 a Year
-4. Send payment to using paypal to raveuk@live.co.uk with Machine ID any instruction
-5. Email me at raveuk@live.co.uk with your details
-6. License will be sent within 30mins to 12hrs to your email
-7. Check your junks mails
-8. Code will be sent only once and can't be generated
+
+Download the tool and run from the command prompt
+type ollama-dl license info
+$10.99 a Year
+Send payment to using paypal to raveuk@live.co.uk with Machine ID any instruction
+Email me at raveuk@live.co.uk with your details
+License will be sent within 30mins to 12hrs to your email
+Check your junks mails
+Code will be sent only once and can't be generated
 
 
 
