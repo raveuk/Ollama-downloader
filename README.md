@@ -149,8 +149,8 @@ ollama-dl clean --all --force
 
 ## Progress Display
 
-During download, you'll see:
-
+During download, you'll see: 
+**This just an illustration made up**
 ```
 ┌─ Downloading sha256:30e51a7cb1cf...
 │ ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  35.2% (18.3/52.0 GB) 582.0 kB/s ETA: 16h5m
